@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="khong">0</string>
+    <string name="mot">1</string>
+    <string name="hai">2</string>
+    <string name="ba">3</string>
+    <string name="tu">4</string>
+    <string name="nam">5</string>
+    <string name="sau">6</string>
+    <string name="bay">7</string>
+    <string name="tam">8</string>
+    <string name="chin">9</string>
+    <string name="cong">+</string>
+    <string name="tru">-</string>
+    <string name="nhan">x</string>
+    <string name="chia">/</string>
+    <string name="phan_tram">%</string>
+    <string name="thap_phan">.</string>
+    <string name="am">+/-</string>
+    <string name="del">DEL</string>
+    <string name="AC">AC</string>
+    <string name="bang">=</string>
+</resources>
